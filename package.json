@@ -1,0 +1,16 @@
+{
+  "name": "dollar-exchange-rate",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that returns the current dollar rate on a specific channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "github.com/impugne",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "node-fetch": "^2.6.11"
+  }
+}
